@@ -1,0 +1,120 @@
+2022-08-22 13:43:52,736 root INFO Dataframe created successfully
+
+2022-08-22 13:45:18,430 root INFO Dataframe created successfully
+
+2022-08-22 13:46:12,132 root INFO Dataframe created successfully
+
+2022-08-22 13:46:12,141 root INFO Dataframe created successfully
+
+2022-08-22 13:50:15,907 root INFO Dataframe created successfully
+
+2022-08-22 13:50:15,928 root INFO Dataframe created successfully
+
+2022-08-22 13:50:15,944 root INFO JSON file created successfully
+
+2022-08-22 13:53:22,780 root INFO Dataframe created successfully
+
+2022-08-22 13:53:22,796 root INFO Dataframe created successfully
+
+2022-08-22 13:53:22,807 root INFO JSON file created successfully
+
+2022-08-22 14:03:48,038 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-22 14:10:33,046 root INFO Database created successfully
+2022-08-22 14:10:33,047 root INFO Collection created successfully
+2022-08-22 14:10:33,047 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-22 14:16:19,077 root INFO Database created successfully
+
+2022-08-22 14:16:19,078 root INFO Collection created successfully
+
+2022-08-22 14:16:19,080 root ERROR 'str' object does not support item assignment
+
+2022-08-22 14:16:45,551 root INFO Database created successfully
+
+2022-08-22 14:16:45,551 root INFO Collection created successfully
+
+2022-08-22 14:16:45,551 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+
+2022-08-22 15:09:48,901 root INFO Database created successfully
+
+2022-08-22 15:09:48,901 root INFO Collection created successfully
+
+2022-08-22 15:09:48,925 root INFO JSON file loaded successfully
+
+2022-08-22 15:09:49,771 root INFO Records have been uploaded successfully in Mongo DB
+
+2022-08-22 15:22:25,598 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.dress_details left join dresses.dress_saleson dresses.dress_details.dress_id = ' at line 1
+
+2022-08-22 15:24:48,245 root INFO Query executed successfully
+
+2022-08-22 15:30:22,260 root INFO Query executed successfully
+
+2022-08-22 15:31:42,993 root INFO Query executed successfully
+
+2022-08-22 15:34:58,631 root INFO Query executed successfully
+
+2022-08-22 15:35:30,984 root INFO Query executed successfully
+
+2022-08-22 15:36:27,584 root ERROR Unread result found
+
+2022-08-22 15:36:47,293 root INFO Query executed successfully
+
+2022-08-22 15:37:22,031 root INFO Query executed successfully
+
+2022-08-22 15:38:28,002 root INFO Query executed successfully
+
+2022-08-22 15:38:49,517 root INFO Query executed successfully
+
+2022-08-22 15:39:08,687 root INFO Query executed successfully
+
+2022-08-22 15:39:22,607 root INFO Query executed successfully
+
+2022-08-22 15:42:30,825 root INFO Query executed successfully
+
+2022-08-22 17:22:10,637 root INFO Query executed successfully
+
+2022-08-22 17:25:05,992 root INFO Query executed successfully
+
+2022-08-22 17:28:59,048 root INFO Query executed successfully
+
+2022-08-22 17:36:06,568 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from dresses.dress_details' at line 7
+
+2022-08-22 17:37:08,889 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from dresses.dress_details' at line 7
+
+2022-08-22 17:37:24,371 root ERROR 1136 (21S01): Column count doesn't match value count at row 1
+
+2022-08-22 17:38:57,109 root INFO Query executed successfully
+
+2022-08-22 17:40:46,836 root INFO Query executed successfully
+
+2022-08-22 17:41:56,808 root INFO Query executed successfully
+
+2022-08-22 17:45:34,911 root INFO Query executed successfully
+
+2022-08-22 17:46:01,597 root INFO Query executed successfully
+
+2022-08-22 17:46:21,903 root INFO Query executed successfully
+
+2022-08-22 17:47:08,679 root INFO Query executed successfully
+
+2022-08-22 17:47:30,977 root INFO Query executed successfully
+
+2022-08-22 17:47:56,738 root INFO Query executed successfully
+
+2022-08-22 17:48:27,089 root INFO Query executed successfully
+
+2022-08-22 17:48:52,116 root INFO Query executed successfully
+
+2022-08-22 17:53:02,147 root INFO Query executed successfully
+
+2022-08-22 17:53:13,666 root INFO Query executed successfully
+
+2022-08-22 17:53:40,077 root INFO Query executed successfully
+
+2022-08-22 17:57:01,028 root INFO Query executed successfully
+
+2022-08-22 17:57:11,671 root INFO Query executed successfully
+
+2022-08-22 18:00:40,914 root INFO Query executed successfully
+
+2022-08-22 18:00:55,386 root INFO Query executed successfully
+
